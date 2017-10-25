@@ -32,3 +32,4 @@ Please adhere to the same guidelines as found in [wp-calypso](https://github.com
 - [node-simperium](https://github.com/automattic/node-simperium) for Simperium syncing.
 - [ReactJS](https://facebook.github.io/react/) for UI.
 - [Electron](http://electron.atom.io) for wrapping the JavaScript application.
+# literate-guide
